@@ -52,7 +52,7 @@ color: #222;
  }
 
  .welcome{
-     width: 90%;
+     /* width: 90%; */
      margin: 0 auto;
 
  }   
@@ -73,14 +73,17 @@ color: #222;
 footer{
     background-color:#222;
     color: white;
-  
+    padding-top: 3rem;
+    
 
 }
 
 .copyr{
     text-align:left;
+    font-size: 10px;
+    padding-left: 7rem;
 }
 
-.ft{
+/* .ft{
     font-size: 8px;
-}
+} */
